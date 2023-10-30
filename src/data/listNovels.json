@@ -1,0 +1,23 @@
+[
+    {
+        "IDNovel": 1,
+        "Titulo": "Entre dos rosas",
+        "Sinopsis": "Un chico esta indeciso por decidir entre su amor de secundaria y su compañera de trabajo",
+        "Genero": "Amor, juvenil, recuentos de la vida",
+        "Autor": "lilith"
+    },
+    {
+        "IDNovel": 2,
+        "Titulo": "La maldicion del savra",
+        "Sinopsis": "Despues de obtener una maldicion de forma accidental nate se ve obligado a viajar por el mundo en busca de una cura",
+        "Genero": "Aventura, fantasia, magia, comedia, juvenil,  amistad, romance",
+        "Autor": "Madz"
+    },
+    {
+        "IDNovel": 3,
+        "Titulo": "lucha de guerreros",
+        "Sinopsis": "sombra y su amigo han crecido juntos toda su vida, pero, sus distintas formas de pensar los aleja uno del otro",
+        "Genero": "Amistad, artes marciales, recuentos de la vida",
+        "Autor": "Zam"
+    }
+]

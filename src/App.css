@@ -1,0 +1,38 @@
+/* Estilos para el cuerpo de la página */
+body, #root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Establece el mínimo de altura de la vista */
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos para el footer */
+footer {
+  background-color: #59CAE8; /* Cambia el color de fondo según tus preferencias */
+  color: #fff; /* Cambia el color de texto según tus preferencias */
+  text-align: center;
+  padding: 10px;
+}
+
+/* Estilos para el contenedor principal */
+.container {
+  display: flex;
+  flex-grow: 1; /* Para que el contenedor principal crezca y ocupe toda la altura */
+}
+
+/* Estilos para el Sidebar */
+.sidebar {
+  flex-grow: 1;
+  flex: 0 0 200px; /* Ancho fijo para el Sidebar */
+  background-size: cover; 
+  background-image: url("/public/banner1.png");/* Cambia el color de fondo según tus preferencias */
+  padding: 10px;
+}
+
+/* Estilos para el contenido principal */
+.content {
+  flex: 1; /* El contenido principal se expandirá para ocupar el espacio restante */
+  padding: 20px;
+  /* Otros estilos para el contenido principal */
+}

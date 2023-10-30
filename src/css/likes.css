@@ -1,0 +1,18 @@
+.container-likes-dislikes {
+    display: flex; /* Establece el contenedor principal como un contenedor flex */
+    justify-content: space-between; /* Coloca espacio entre los dos contenedores */
+    align-items: center; /* Alinea los elementos verticalmente al centro */
+}
+
+.likes-container, .dislikes-container {
+    display: flex; /* Convierte los contenedores internos en contenedores flex */
+    align-items: center; /* Alinea los elementos internos verticalmente al centro */
+}
+
+.dislikes-container {
+    margin-left: 10px;
+}
+
+.hidden{
+    display: none;
+}
